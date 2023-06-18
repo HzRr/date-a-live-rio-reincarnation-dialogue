@@ -31,9 +31,9 @@
 | CHAR_TAMAE   | 11     | Okamine Tamae   | 岡峰 珠惠       | おかみね たまえ |
 | CHAR_KUSAKABE| 12     | Kusakabe Ryouko | 日下部 燎子     | くさかべ りょうこ |
 | CHAR_AI      | 13     | Yamabuki Ai     | 山吹 亜衣       | やまぶき あい   |
-| CHAR_MAI     | 14     | Unknown         | 叶樱 麻衣         | Unknown       |
+| CHAR_MAI     | 14     | Unknown         | 叶樱 麻衣       | Unknown       |
 | CHAR_MII     | 15     | Fujibakama Mii  | 藤袴 美衣       | ふじばかま みい |
-| CHAR_RULER   | 16     | Ruler           | Ruler          | ルーラー    |
+| CHAR_RULER   | 16     | Ruler           | 支配者          | ルーラー    |
 | CHAR_MARIA   | 21     | Arusu Maria     | 或守 鞠亜       | あるす まりあ |
 | CHAR_KAGUYA  | 22     | Yamai Kaguya    | 八舞 耶倶矢     | やまい かぐや |
 | CHAR_YUZURU  | 23     | Yamai Yuzuru    | 八舞 夕弦       | やまい ゆづる |
