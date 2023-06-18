@@ -42,6 +42,6 @@ cd date-a-live-rio-reincarnation-dialogue
 
 ## 使用的解包工具
 
-本项目使用了 [DALTools](https://github.com/thesupersonic16/DALTools) 来进行解包操作。我们在此对 DALTools 的开发者 [thesupersonic16](https://github.com/thesupersonic16) 表示衷心的感谢，他们的工具为本项目的开发提供了极大的帮助。
+本项目使用了 [DALTools](https://github.com/thesupersonic16/DALTools) 来进行解包操作。我们在此对 DALTools 的开发者 [thesupersonic16](https://github.com/thesupersonic16) 表示衷心的感谢，他的工具为本项目的开发提供了极大的帮助。
 
 请注意，DALTools 解包工具的版权归 [thesupersonic16](https://github.com/thesupersonic16) 所有。如需了解其许可和使用要求，请在源代码仓库查看相关信息。感谢他们的开源贡献！
